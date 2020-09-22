@@ -1,0 +1,7 @@
+[general]
+name=Analisi beni in Lunigiana
+description=Tools per interagire con il GIS beni storici in Lunigiana
+version=1.0
+qgisMinimumVersion=3.0
+author=Lorenzo Alighieri
+email=lorenzo_alighieri@yahoo.it
